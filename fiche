@@ -1,0 +1,15 @@
+
+MALKI@MALKI-PC MINGW64 ~/Desktop
+$ pwd
+/c/Users/MALKI/Desktop
+
+MALKI@MALKI-PC MINGW64 ~/Desktop
+$ mkdir ex
+
+MALKI@MALKI-PC MINGW64 ~/Desktop
+$ cd ex
+
+MALKI@MALKI-PC MINGW64 ~/Desktop/ex
+$ touch fiche
+
+
